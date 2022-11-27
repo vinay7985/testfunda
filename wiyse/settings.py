@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'fundamentals',
     'restpy',
+    'restpy2',
 ]
 
 MIDDLEWARE = [
